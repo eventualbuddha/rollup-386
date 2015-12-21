@@ -1,0 +1,26 @@
+{
+  "name": "rollup-368",
+  "version": "1.0.0",
+  "description": "https://github.com/rollup/rollup/issues/368",
+  "main": "index.js",
+  "dependencies": {
+    "react-redux": "^4.0.2",
+    "react": "^0.14.3",
+    "redux": "^3.0.5",
+    "rollup-plugin-npm": "^1.1.0",
+    "rollup": "^0.21.2"
+  },
+  "devDependencies": {
+    "react": "^0.14.3",
+    "react-redux": "^4.0.2",
+    "redux": "^3.0.5",
+    "rollup": "^0.21.2",
+    "rollup-plugin-commonjs": "^1.4.0",
+    "rollup-plugin-npm": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
