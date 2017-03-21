@@ -18,3 +18,6 @@ Treating 'rollup-plugin-commonjs' as external dependency
 var reactRedux = (function (module) {
 console.log(reactRedux);
 ```
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventualbuddha/rollup-386.svg)](https://greenkeeper.io/)
